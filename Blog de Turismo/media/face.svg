@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Facebook"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="face.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata932"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs930">
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview928"
+   showgrid="false"
+   inkscape:zoom="1.84375"
+   inkscape:cx="64"
+   inkscape:cy="64"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Facebook" />
+<path
+   style="fill:#ffffff;stroke-width:1.78572416"
+   inkscape:connector-curvature="0"
+   d="M 120.93567,0 H 7.064325 C 3.161625,0 0,3.161625 0,7.064325 V 120.93568 C 0,124.83677 3.161625,128 7.064325,128 H 68.368417 V 78.432223 H 51.688324 v -19.3185 H 68.368417 V 44.867929 c 0,-16.533664 10.097023,-25.5355 24.846743,-25.5355 7.06433,0 13.13472,0.525896 14.90473,0.761255 v 17.277417 l -10.22774,0.0043 c -8.02183,0 -9.5738,3.812164 -9.5738,9.404695 v 12.333641 h 19.1285 l -2.49037,19.3185 H 88.31835 V 128 h 32.61732 C 124.83677,128 128,124.83677 128,120.93568 V 7.064325 C 128,3.161625 124.83677,0 120.93567,0 Z"
+   id="facebook-facebook" />
+</svg>

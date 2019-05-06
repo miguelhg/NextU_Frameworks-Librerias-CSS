@@ -1,0 +1,97 @@
+﻿body {
+	background-image: url('../media/background.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.modak {
+	font-family: 'Modak', cursive;
+}
+
+.sofia {
+	font-family: 'Sofia', cursive;
+}
+
+.cookie{
+	font-family: 'Cookie', cursive;
+}
+
+.fredoka{
+	font-family: 'Fredoka One', cursive;
+}
+
+.sep-total {
+	padding: 1rem 1.5rem 1rem 1.5rem;
+}
+
+.sep-menor {
+	padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.margen-sup {
+	margin-top: 1rem;
+}
+
+.margen-inf {
+	margin-bottom: 1rem;
+}
+
+.lblanca {
+	color: white;
+}
+
+.lamarilla {
+	color: #FFFF66;
+}
+
+.lroja {
+	color: #DE2743;
+}
+
+.bblanco {
+	background-color:White;
+}
+
+.bgrisclaro {
+	background-color: #CCCCCC;
+}
+
+.bmarron {
+	background-color: #996633;
+}
+
+.bamarillo {
+ background-color: #FFFF66;
+}
+
+.bgris {
+	background-color: rgba(128,128,128,0.85);
+}
+
+.rsup {
+	border-radius: 5px 5px 0 0;
+}
+
+.rinf {
+	border-radius: 0 0 5px 5px;
+}
+
+.rtotal {
+	border-radius: 5px;
+}
+
+.comentarios {
+	border: 1px dotted #999999;
+	border-radius: 5px;
+	color: #666666;
+}
+
+.trojo {
+	color: #C91628;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+}

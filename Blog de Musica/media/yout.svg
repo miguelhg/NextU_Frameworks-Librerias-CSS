@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="YouTube"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="yout.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata3259"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3257"><linearGradient
+   inkscape:collect="always"
+   id="linearGradient3060"><stop
+     style="stop-color:#999999;stop-opacity:1"
+     offset="0"
+     id="stop3056" /><stop
+     style="stop-color:#333333;stop-opacity:1"
+     offset="1"
+     id="stop3058" /></linearGradient>
+	
+	
+<linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient3060"
+   id="linearGradient3062"
+   x1="8.3582087"
+   y1="8.8358212"
+   x2="118.44776"
+   y2="118.44776"
+   gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview3255"
+   showgrid="false"
+   inkscape:zoom="4.1875"
+   inkscape:cx="64"
+   inkscape:cy="64"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="YouTube" />
+<path
+   style="fill:url(#linearGradient3062);fill-opacity:1"
+   d="M 7 0 C 3.122 0 0 3.122 0 7 L 0 121 C 0 124.878 3.122 128 7 128 L 121 128 C 124.878 128 128 124.878 128 121 L 128 7 C 128 3.122 124.878 0 121 0 L 7 0 z M 29.101562 30.498047 L 98.896484 30.498047 C 106.57375 30.498047 112.85742 36.779635 112.85742 44.457031 L 112.85742 83.542969 C 112.85742 91.220365 106.57375 97.501953 98.896484 97.501953 L 29.101562 97.501953 C 21.424304 97.501953 15.142578 91.220365 15.142578 83.542969 L 15.142578 44.457031 C 15.142578 36.779635 21.424303 30.498047 29.101562 30.498047 z M 53.908203 48.53125 L 53.908203 75.986328 L 80.310547 62.306641 L 53.908203 48.53125 z "
+   id="youtube-back" />
+</svg>

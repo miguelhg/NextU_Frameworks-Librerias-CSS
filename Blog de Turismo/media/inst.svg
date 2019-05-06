@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Instagram"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="inst.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata1499"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1497">
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview1495"
+   showgrid="false"
+   inkscape:zoom="1.84375"
+   inkscape:cx="-26.305085"
+   inkscape:cy="64"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Instagram" />
+<path
+   style="fill:#ffffff"
+   d="M 7 0 C 3.122 0 0 3.122 0 7 L 0 121 C 0 124.878 3.122 128 7 128 L 121 128 C 124.878 128 128 124.878 128 121 L 128 7 C 128 3.122 124.878 0 121 0 L 7 0 z M 27.667969 16.769531 L 100.33203 16.769531 C 106.35226 16.769531 111.23047 21.649716 111.23047 27.667969 L 111.23047 100.32617 C 111.23047 106.34758 106.35226 111.23047 100.33203 111.23047 L 27.667969 111.23047 C 21.650375 111.23047 16.769531 106.34758 16.769531 100.32617 L 16.769531 27.667969 C 16.769531 21.649716 21.650375 16.769531 27.667969 16.769531 z M 85.798828 27.667969 C 83.79248 27.667969 82.166016 29.295224 82.166016 31.300781 L 82.166016 42.201172 C 82.166016 44.206861 83.79248 45.833984 85.798828 45.833984 L 96.695312 45.833984 C 98.705482 45.833984 100.33203 44.206861 100.33203 42.201172 L 100.33203 31.300781 C 100.33203 29.295224 98.705482 27.667969 96.695312 27.667969 L 85.798828 27.667969 z M 64 45.833984 C 53.967206 45.833984 45.833984 53.965385 45.833984 63.998047 C 45.833984 74.030183 53.967206 82.166016 64 82.166016 C 74.033453 82.166016 82.166016 74.030183 82.166016 63.998047 C 82.166016 53.965385 74.033453 45.833984 64 45.833984 z M 27.667969 56.730469 L 27.667969 96.697266 C 27.667969 98.700978 29.295177 100.32617 31.304688 100.32617 L 96.695312 100.32617 C 98.705482 100.32617 100.33203 98.700978 100.33203 96.697266 L 100.33203 56.730469 L 92.109375 56.730469 C 92.707787 59.056514 93.064453 61.485401 93.064453 63.998047 C 93.064453 80.052917 80.051048 93.064453 64 93.064453 C 47.949611 93.064453 34.935547 80.052917 34.935547 63.998047 C 34.935547 61.485401 35.291554 59.056514 35.890625 56.730469 L 27.667969 56.730469 z "
+   id="instagram-back" />
+</svg>

@@ -1,0 +1,86 @@
+﻿body {
+	background-image: url('../media/backg.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.pagecolor {
+	background-color: #006699;
+}
+
+.color-blanco{
+	background-color: white;
+}
+
+.color-gris {
+	background-color:#CCCCCC;
+}
+
+.margen-sup {
+	margin-top: 1.5rem;
+}
+
+.margen-inf {
+	margin-bottom: 1.5rem;
+}
+
+.fuente-titulo {
+	font-family: 'Lobster', cursive; 
+}
+
+.esq-redon {
+	border-radius: 5px;
+}
+
+.esq-redon-up {
+	border-radius: 5px 5px 0 0;
+}
+
+.esq-redon-dn {
+	border-radius: 0 0 5px 5px;
+}
+
+.logo-prop {
+	padding-top: 1rem;
+	min-height: 11rem;
+}
+
+.btn-prop {
+	width: 100%;
+	background-color: #3399FF;
+	color: white;
+}
+
+.nav-prop {
+	padding-top: 1rem;
+	background-color: #A8B3FF;
+	padding-bottom: 1rem;
+}
+
+.sm-prop {
+	height: 4.25rem !Important;
+}
+
+.img-prop {
+	width:100%;
+	padding: 2rem 6px 2rem 6px;
+}
+
+.bsq-prop {
+	width: 100%;
+}
+
+.texto-azul {
+	color: #3058FA !important;
+}
+
+.texto-blanco {
+	color: white;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}

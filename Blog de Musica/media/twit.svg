@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Twitter"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="twit.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata2690"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2688"><linearGradient
+   inkscape:collect="always"
+   id="linearGradient2499"><stop
+     style="stop-color:#999999;stop-opacity:1"
+     offset="0"
+     id="stop2495" /><stop
+     style="stop-color:#333333;stop-opacity:1"
+     offset="1"
+     id="stop2497" /></linearGradient>
+	
+	
+<linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient2499"
+   id="linearGradient2501"
+   x1="9.0746269"
+   y1="9.5522385"
+   x2="119.16418"
+   y2="118.44776"
+   gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview2686"
+   showgrid="false"
+   inkscape:zoom="4.1875"
+   inkscape:cx="64"
+   inkscape:cy="64"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Twitter" />
+<path
+   style="fill:url(#linearGradient2501);fill-opacity:1"
+   d="M 7 0 C 3.122 0 0 3.122 0 7 L 0 121 C 0 124.878 3.122 128 7 128 L 121 128 C 124.878 128 128 124.878 128 121 L 128 7 C 128 3.122 124.878 0 121 0 L 7 0 z M 84.462891 20.769531 C 90.740587 20.769531 96.414793 23.419489 100.39648 27.662109 C 105.36817 26.683682 110.03936 24.865625 114.25586 22.365234 C 112.62658 27.461604 109.16654 31.739452 104.66016 34.441406 C 109.07659 33.91375 113.28175 32.740495 117.19531 31.003906 C 114.27027 35.381447 110.56898 39.225559 106.30469 42.302734 C 106.34669 43.239158 106.36914 44.180437 106.36914 45.126953 C 106.36914 73.97155 84.412722 107.23047 44.263672 107.23047 C 31.93656 107.23047 20.464723 103.61946 10.804688 97.425781 C 12.512035 97.627347 14.249898 97.728516 16.011719 97.728516 C 26.238448 97.728516 35.648542 94.241103 43.119141 88.386719 C 33.567901 88.209795 25.506465 81.897336 22.728516 73.226562 C 24.061385 73.480223 25.429299 73.619141 26.835938 73.619141 C 28.826039 73.619141 30.755864 73.352229 32.587891 72.853516 C 22.602504 70.847534 15.078125 62.026555 15.078125 51.451172 C 15.078125 51.358405 15.078078 51.267061 15.080078 51.175781 C 18.022483 52.810697 21.386729 53.793147 24.964844 53.90625 C 19.108234 49.991206 15.255859 43.310255 15.255859 35.738281 C 15.255859 31.737743 16.331709 27.987344 18.210938 24.763672 C 28.976158 37.969911 45.060346 46.660013 63.201172 47.570312 C 62.829364 45.972948 62.634766 44.307505 62.634766 42.595703 C 62.634766 30.541845 72.407548 20.769531 84.462891 20.769531 z "
+   id="twitter-back" />
+</svg>
